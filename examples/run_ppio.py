@@ -14,7 +14,7 @@
 
 
 # To run this file, you need to configure the PPIO API key
-# You can obtain your API key from PPIO platform: https://ppinfra.com/settings/key-management
+# You can obtain your API key from PPIO platform: https://ppinfra.com/settings/key-management?utm_source=github_owl
 # Set it as PPIO_API_KEY="your-api-key" in your .env file or add it to your environment variables
 
 import sys
